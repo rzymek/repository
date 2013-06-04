@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>mvnsh-maven-plugin</name>
+      <prefix>mvnsh</prefix>
+      <artifactId>mvnsh-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
