@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>typescript-maven-plugin Maven Plugin</name>
+      <prefix>typescript-maven-plugin</prefix>
+      <artifactId>typescript-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
