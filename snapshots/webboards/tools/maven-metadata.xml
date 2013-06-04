@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>webboards</groupId>
+  <artifactId>tools</artifactId>
+  <versioning>
+    <latest>1.1-SNAPSHOT</latest>
+    <versions>
+      <version>1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130604124409</lastUpdated>
+  </versioning>
+</metadata>
